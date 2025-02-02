@@ -30,11 +30,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
 <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+</a>
+
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/ejs-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/EJS-61DAFB?style=for-the-badge&logo=EJS&logoColor=black" alt="EJS Badge" />
 </a>
+
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </a>
@@ -50,10 +55,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Fastify-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Laravel-EA4C89?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify Badge" />
 </a>
 
 ### **🛢️ Database:**  
@@ -65,12 +67,6 @@
 </a>
 
 ### **🔧 DevOps & Hosting:**  
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white">
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/hPanel-22D3EE?style=for-the-badge&logo=hPanel&logoColor=white">
-</a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </a>
