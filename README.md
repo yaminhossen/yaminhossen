@@ -71,8 +71,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </a>
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/VPS-0078D7?style=for-the-badge&logo=server&logoColor=white" alt="VPS Badge" />
+  <img src="https://img.shields.io/badge/VPS-00A9E0?style=for-the-badge&logo=linux&logoColor=white" alt="VPS Badge" />
 </a>
+
 
 
 
