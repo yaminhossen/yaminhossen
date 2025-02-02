@@ -92,9 +92,10 @@
 
 
 <p align="center">
-  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api?username=yaminhossen&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats">
-  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminhossen&layout=compact&theme=radical" alt="Top Languages">
+  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api?username=yaminhossen&show_icons=true&theme=radical&line_height=27" alt="GitHub Stats" />
+  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminhossen&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaminhossen&theme=radical" alt="GitHub Streak">
