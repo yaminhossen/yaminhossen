@@ -18,8 +18,8 @@
   - **Server Management:** ![cPanel](https://img.shields.io/badge/cPanel-9B5A6D?style=for-the-badge&logo=cpanel&logoColor=white) ![hPanel](https://img.shields.io/badge/hPanel-22D3EE?style=for-the-badge&logo=hPanel&logoColor=white)  
   - **Virtualization & Containerization:** ![VPS](https://img.shields.io/badge/VPS-00A9E0?style=for-the-badge&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 - 💞️ **Open to collaboration on exciting software projects.**  
-- 📫 **Reach me at:** [mahfujurahman2020@gmail.com](mailto:mahfujurahman2020@gmail.com)  
-- 💻 **Watch me at:** [S M Mahfujur Rahman](https://mahfujurahman.github.io/portfolio)
+- 📫 **Reach me at:** [yaminh911@gmail.com](mailto:yaminh911@gmail.com)  
+- 💻 **Watch me at:** [S M Yamin Hossain](https://techpartit.org/developer/yamin-hossain)
 
 ---
 
