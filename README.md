@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mahfujur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Yamin Hossain</h1>
 <h3 align="center">Software Engineer from Bangladesh</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahfujurahman&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="mahfujurahman" />
+  <img src="https://komarev.com/ghpvc/?username=yaminhossen&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="yaminhossain" />
 </p>
 
 ---
@@ -9,8 +9,8 @@
 # 👋 About Me  
 
 - 👀 **I’m passionate about Software Engineering (Development & Deployment).**  
-- 🌱 **Currently expanding my expertise in Full Stack Development.**  
-- 💻 **Working as a Full Stack Software Developer:**  
+- 🌱 **Currently expanding my expertise in MERN Stack Development.**  
+- 💻 **Working as a MERN Stack Software Developer:**  
   - **Technologies I work with:**  
     - **Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-EA4C89?style=for-the-badge&logo=laravel&logoColor=white)  
     - **Frontend:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -24,8 +24,8 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahfujuRahman&cache_seconds=86400" alt="GitHub Streak" width="420" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahfujuRahman&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=yaminhossen&cache_seconds=86400" alt="GitHub Streak" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaminhossen&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" />
 </p>
 
 ---
