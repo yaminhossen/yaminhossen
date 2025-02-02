@@ -19,7 +19,7 @@
   - **Virtualization & Containerization:** ![VPS](https://img.shields.io/badge/VPS-00A9E0?style=for-the-badge&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 - 💞️ **Open to collaboration on exciting software projects.**  
 - 📫 **Reach me at:** [yaminh911@gmail.com](mailto:yaminh911@gmail.com)  
-- 💻 **Watch me at:** [S M Yamin Hossain](https://techpartit.org/developer/yamin-hossain)
+- 💻 **Watch me at:** [Yamin Hossain](https://techparkit.org/developer/yamin-hossain)
 
 ---
 
